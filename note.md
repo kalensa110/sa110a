@@ -16,3 +16,7 @@
 ## BigInt
 
 [參考](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
+
+## 浮點數誤差
+
+[參考](https://dotblogs.com.tw/daniel/2018/11/10/161148)
