@@ -5,7 +5,7 @@
 
 [參考](https://github.com/ccccourse/sa110a/issues/1#issuecomment-919642478)
 
-## 紅黑數
+## 紅黑樹
 
 [參考1](https://tigercosmos.xyz/post/2019/11/algorithm/red-black-tree/)
 
